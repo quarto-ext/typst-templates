@@ -1,0 +1,42 @@
+---
+title: "Liam's Playlist"
+author: Janet Doe
+dedication: |
+  for Rachel
+publishing-info: |
+  UK Publishing, Inc. \
+  6 Abbey Road \
+  Vaughnham, 1PX 8A3
+
+  <https://example.co.uk/>
+
+  971-1-XXXXXX-XX-X
+format:
+  fiction-typst: default
+---
+
+## Mondays
+
+Liam hated Mondays. He hated waking up to the sound of his dad's old car sputtering to life outside his window. He hated the smell of burnt toast and instant coffee that filled the kitchen. He hated the sight of his mum's tired face as she handed him his lunch bag and kissed him goodbye. He hated the feel of his worn-out uniform and backpack as he walked to the bus stop. He hated the noise of the other kids on the bus, talking about their weekend plans and their latest crushes. He hated the fact that he had nothing to say to them, nothing to share, nothing to look forward to.
+
+He got off the bus at his school and made his way to his locker, avoiding eye contact with anyone who might notice him or worse, pick on him. He was used to being invisible, being ignored, being alone. He didn't have any friends at school, or anywhere else for that matter. He didn't have any hobbies or interests that made him stand out or fit in. He didn't have any dreams or goals that gave him hope or motivation. He just had his routine: wake up, go to school, come home, do homework, watch TV, go to bed. Repeat.
+
+He opened his locker and took out his books for his first class: English literature. He liked reading books sometimes, but he didn't like analyzing them or writing essays about them. He didn't see the point of studying something that had no relevance to his life or future. What did Shakespeare or Dickens have to do with him? What did he care about metaphors or themes or symbols? He just wanted to escape into a different world for a while, not dissect it.
+
+He closed his locker and headed to class. As he walked down the hall, he saw her: Alice Walker. She was new at school this year and she was beautiful. She had long blonde hair that cascaded over her shoulders like a waterfall. She had bright blue eyes that sparkled like diamonds in the sunlight. She had a perfect smile that lit up her face like a star in the night sky.
+
+But he knew it was impossible. She was out of his league. She was from another world. He sighed and continued walking towards English literature. He hated Mondays.
+
+## Music
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra nulla sit amet finibus imperdiet. Morbi accumsan diam interdum, finibus ipsum sed, placerat justo. Integer tortor magna, efficitur quis tempor et, consectetur in ligula. Phasellus in ex aliquet, tincidunt ex in, pulvinar neque. Nam eu auctor metus. Phasellus gravida lectus vitae tincidunt scelerisque. Cras quis enim a risus varius sagittis. Etiam vitae urna pulvinar, congue magna nec, fringilla eros.
+
+Phasellus sed maximus risus, quis ultricies nisi. Donec et erat lacinia, blandit enim suscipit, semper magna. Maecenas non leo eu sapien scelerisque cursus. Aenean convallis dictum odio, nec malesuada odio facilisis vel. Donec sollicitudin, eros et hendrerit blandit, orci nibh convallis mauris, a commodo ante lectus a magna. Curabitur feugiat metus ut sem bibendum, ac semper arcu mollis. Duis mattis malesuada mollis. Sed pellentesque aliquet purus nec accumsan. Curabitur vehicula, turpis in tempor accumsan, nisi nibh tincidunt purus, id fringilla nunc orci vitae odio. Fusce quis erat suscipit, aliquam elit vitae, aliquam diam. Aliquam faucibus eu ante non ullamcorper. Pellentesque aliquet hendrerit lacus, sed dictum leo iaculis eu. Fusce sit amet malesuada ipsum. Nam pretium gravida dui. Fusce nec sodales felis, quis consequat nibh. Nullam consectetur quam velit, id faucibus libero luctus sed.
+
+## Magic
+
+Phasellus eu consequat metus. Integer bibendum erat massa, in euismod nunc lacinia quis. Duis sagittis ornare leo a consequat. Nullam blandit, dolor ac scelerisque molestie, lectus nibh finibus nisi, quis posuere sem velit id felis. Fusce aliquet erat velit, vitae posuere leo vehicula nec. Aliquam erat volutpat. Pellentesque sollicitudin ex lacus.
+
+In hac habitasse platea dictumst. Cras sed eleifend libero. Nulla semper erat sit amet ante hendrerit, in mollis velit lobortis. Cras et volutpat lorem, ac aliquam enim. In finibus aliquet urna in molestie. Duis rutrum sapien at tortor laoreet porta. In eu neque lobortis, semper est vel, ultricies ante. Nam finibus mauris sed turpis scelerisque, ut vestibulum nunc vestibulum. Suspendisse ac elementum metus. Donec egestas sem at ligula blandit, eget tristique felis dictum. Etiam non tellus in tellus maximus ultricies. Nullam eget sem ut purus bibendum lacinia.
+
+Suspendisse lectus ante, ultrices eu lectus vitae, sodales laoreet velit. Mauris a odio sodales tortor convallis rhoncus nec eget lectus. Praesent maximus convallis libero eget laoreet. Quisque at bibendum nisl. Nulla nec justo imperdiet, scelerisque dui id, lacinia nisl. Nulla facilisi. Nulla cursus sem quam, vitae consectetur sapien porta sit amet. Aliquam ac dolor sed turpis euismod ultricies in sed leo. Mauris varius odio sit amet aliquet ullamcorper. Aenean id erat id sapien consequat scelerisque at eget purus. Maecenas et efficitur purus. Cras ac magna ligula.
