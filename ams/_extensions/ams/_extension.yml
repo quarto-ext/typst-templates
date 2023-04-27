@@ -1,0 +1,12 @@
+title: Typst AMS
+author: J.J. Allaire
+version: 0.2.0
+quarto-required: ">=1.4.11"
+contributes:
+  formats:
+    typst:
+      template: template.typ
+      template-partials: 
+        - typst-template.typ
+        - typst-show.typ
+

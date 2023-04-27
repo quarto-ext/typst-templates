@@ -1,0 +1,80 @@
+---
+title: "Mathematical Theorems"
+authors: 
+  - name: Ralph Howard
+    email: "howard@math.sc.edu"
+    url: "www.math.sc.edu/~howard"
+    affiliations: 
+      - name: University of South Carolina
+        department: Department of Mathematics
+        city: Columbia
+        state: SC
+        postal-code: 29208
+abstract: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Curabitur ex justo, pretium nec ante mattis, ultricies
+  ultricies magna. Duis neque nulla, feugiat a consectetur id,
+  fermentum a lorem. Vivamus sit amet est interdum, eleifend
+  libero in, rutrum lorem. 
+format:
+  ams-typst: default
+bibliography: refs.bib
+---
+
+Call me Ishmael. Some years ago --- never mind how long precisely ---
+having little or no money in my purse, and nothing particular to
+interest me on shore, I thought I would sail about a little and see
+the watery part of the world. It is a way I have of driving off the
+spleen, and regulating the circulation.  Whenever I find myself
+growing grim about the mouth; whenever it is a damp, drizzly November
+in my soul; whenever I find myself involuntarily pausing before coffin
+warehouses, and bringing up the rear of every funeral I meet; and
+especially whenever my hypos get such an upper hand of me, that it
+requires a strong moral principle to prevent me from deliberately
+stepping into the street, and methodically knocking people's hats off
+--- then, I account it high time to get to sea as soon as I can. This
+is my substitute for pistol and ball. With a philosophical flourish
+Cato throws himself upon his sword; I quietly take to the ship. There
+is nothing surprising in this. If they but knew it, almost all men in
+their degree, some time or other, cherish very nearly the same
+feelings towards the ocean with me. @netwok2020
+
+There now is your insular city of the Manhattoes, belted round by
+wharves as Indian isles by coral reefs - commerce surrounds it with
+her surf. Right and left, the streets take you waterward. Its extreme
+down-town is the battery, where that noble mole is washed by waves,
+and cooled by breezes, which a few hours previous were out of sight of
+land. Look at the crowds of water-gazers there.
+
+This formula is also referred to as the _binomial formula_ or the _binomial identity_. It can be written as:
+
+$$
+(x+y)^n = \sum_{k=0}^n {n \choose k}x^{n-k}y^k = \sum_{k=0}^n {n \choose k}x^{k}y^{n-k}
+$$
+
+::: {#thm-real-square}
+## The square of any real number is non-negative
+
+:::
+
+::: {.proof}
+The proof
+:::
+
+
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et ornare urna, ornare malesuada ante. Aenean fringilla fermentum pulvinar. Integer maximus mauris id gravida eleifend. Donec et facilisis neque. Curabitur tempus non ante in facilisis. Pellentesque bibendum, est non luctus dapibus, nunc quam egestas est, non mollis purus turpis eget ante. Suspendisse vehicula ligula in ipsum interdum, ac dapibus magna aliquet. Sed ullamcorper dui ut condimentum commodo. Praesent risus nulla, rhoncus ac tortor id, feugiat ultricies enim. Aenean vitae commodo mauris, id ornare dolor. Nam sit amet dapibus quam, eget aliquet purus. Quisque et metus molestie, fringilla orci eget, lacinia lacus. Vestibulum semper iaculis volutpat. Donec porta tortor a ultricies suscipit. Suspendisse blandit cursus ante vitae hendrerit. Donec sit amet neque a nulla sagittis venenatis.
+
+## Things that need to be done
+
+Praesent vestibulum libero et diam pretium congue. In vitae est ac elit vehicula molestie semper a mauris. Nulla sodales, orci a semper sodales, magna magna aliquet nisl, iaculis pharetra felis magna at velit. Vestibulum ut eleifend metus. Duis et nunc nec risus fringilla ultricies. Donec sed pellentesque dolor. Nulla egestas scelerisque ex. Quisque aliquet tellus in pellentesque egestas. Sed efficitur neque ligula, nec tristique ante elementum a. Fusce laoreet justo diam, vitae consectetur odio elementum quis. Mauris id velit sed massa aliquam fermentum eget quis augue. Praesent vitae est vel leo venenatis dignissim. In quis lacus mauris. Pellentesque ultrices tortor nisi, pulvinar pretium sapien hendrerit quis.
+
+## Background
+
+Aenean sagittis, nisl et egestas facilisis, mauris erat pulvinar turpis, tincidunt maximus tellus erat in ligula. Phasellus vitae lacinia nisi. Aliquam aliquam feugiat lectus sed congue. Ut ut molestie lacus. Nam id felis aliquam, pulvinar erat eu, luctus ligula. Vestibulum quis metus accumsan, fringilla neque quis, lobortis leo. Maecenas id nisl condimentum, ultricies ante ac, laoreet magna. In eu tincidunt ipsum, id gravida diam. Integer congue lectus at lorem placerat, sed mattis odio sodales. Curabitur in sem euismod augue imperdiet vestibulum eu at ex. Aenean finibus vehicula congue. Duis vel ex varius, fringilla metus id, porta velit. Quisque finibus nec lorem id ultrices.
+
+Donec auctor lectus nec tempor luctus. Morbi dapibus posuere quam, vel ultrices eros pellentesque in. Quisque id risus condimentum, aliquet orci ac, vehicula metus. Aenean posuere pulvinar nulla. Mauris sed finibus nisl. Aliquam vehicula lorem ac mauris aliquam auctor. Nam aliquet sapien blandit commodo elementum. In aliquet elit in elit lacinia, a aliquet elit euismod. Proin fermentum lectus tortor, nec iaculis augue blandit a. Aliquam libero turpis, laoreet quis tellus eget, accumsan consectetur libero. Sed elit libero, imperdiet id nulla a, maximus mollis odio. Vestibulum lacinia lectus quis eleifend rutrum. Donec at sagittis ex. Maecenas porttitor tempus purus eget euismod. Suspendisse eu urna eget ligula molestie facilisis. Nunc tincidunt urna eget varius eleifend.
+
+
+
