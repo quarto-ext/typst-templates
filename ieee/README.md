@@ -1,6 +1,6 @@
 # Typst IEEE Format
 
-Based on the IEE format published by the Typst team at <https://typst/typst-templates/ieee>.
+Based on the IEE template published by the Typst team at <https://typst/typst-templates/ieee>.
 
 **NOTE**: This format requires the pre-release version of Quarto v1.4, which you can download here: <https://quarto.org/docs/download/prerelease>.
 
