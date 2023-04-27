@@ -1,0 +1,26 @@
+---
+subject: "Revision of our Procurement Contract"
+name: "Jane Smith \ Regional Director"
+sender: "Jane Smith, Universal Exports, 1 Heavy Plaza, Morristown, NJ 07964"
+recipient: |
+  Mr. John Doe \
+  Acme Corp. \
+  123 Glennwood Ave \
+  Quarto Creek, VA 22438 \
+sent: "Morristown, June 9th, 2023"
+format:
+  letter-typst: default
+---
+
+Dear Joe,
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus lorem quam, nec eleifend risus rhoncus sed. Fusce urna quam, placerat eu nisi eget, consequat tempor mauris. Nullam maximus est sit amet blandit venenatis. Curabitur vestibulum, nulla eget bibendum blandit, est nisi convallis massa, vel tincidunt orci mi dictum magna. Duis rhoncus neque vitae ipsum imperdiet pulvinar. 
+
+Vestibulum pretium, ligula ac dignissim elementum, ante justo elementum ante, ac tincidunt mi nisi dignissim turpis. Vestibulum pellentesque metus at metus molestie dignissim. In eget nisi efficitur, posuere ligula non, tincidunt augue. Ut bibendum justo massa, non venenatis elit ullamcorper non. Duis diam libero, hendrerit luctus eros vitae, feugiat gravida libero. Ut posuere viverra ex, sed lacinia lorem laoreet id. 
+
+In hac habitasse platea dictumst. Cras ut felis et metus feugiat cursus. Etiam sit amet ultrices odio. Phasellus hendrerit dui non dolor semper, quis pretium magna egestas.
+
+Best,
+
+
+
