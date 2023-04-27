@@ -36,8 +36,6 @@ Dear Joe,
 ...
 ```
 
-Would be rendered as:
+This document would be rendered as:
 
 ![](letter.png)
-
-You can find the full source code for this example here: [example.qmd](example.qmd). 
