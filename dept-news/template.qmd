@@ -1,0 +1,50 @@
+---
+title: "Chemistry Department"
+edition: |
+   March 18th, 2023 \
+   Purview College
+hero-image: 
+  path: "newsletter-cover.jpg"
+  caption: "Award winning science"
+publication-info: |
+  The Dean of the Department of Chemistry. \
+  Purview College, 17 Earlmeyer D, Exampleville, TN 59341. \
+  <mailto:newsletter@chem.purview.edu>
+format:
+  dept-news-typst: default
+---
+
+# The Sixtus Award goes to Purview
+
+It's our pleasure to announce that our department has recently been awarded the highly-coveted Sixtus Award for Excellence in Chemical Research. This is a massive achievement for our department, and we couldn't be prouder.
+
+> Our Lab has synthesized the most elements of them all.\
+> --- Prof. Herzog
+
+The Sixtus Award is a prestigious recognition given to institutions that have demonstrated exceptional performance in chemical research. The award is named after the renowned chemist Sixtus Leung, who made significant contributions to the field of organic chemistry.
+
+This achievement is a testament to the hard work, dedication, and passion of our faculty, students, and staff. Our department has consistently produced groundbreaking research that has contributed to the advancement of the field of chemistry, and we're honored to receive this recognition.
+
+The award will be presented to our department in a formal ceremony that will take place on May 15th, 2023. We encourage all members of our department to join us in celebrating this achievement.
+
+::: {.article}
+## Guest lecture from Dr. Elizabeth Lee
+  
+Elizabeth Lee, a leading researcher in the field of biochemistry, spoke about her recent work on the development of new cancer treatments using small molecule inhibitors, and the lecture was very well-attended by both students and faculty.
+
+In case you missed it, there's a recording on [EDGARP](http://purview.edu/lts/2023-lee")
+:::
+
+::: {.article}
+## Safety first
+
+Next Tuesday, there will be a Lab Safety Training.
+
+These trainings are crucial for ensuring that all members of the department are equipped with the necessary knowledge and skills to work safely in the laboratory. *Attendance is mandatory.*
+:::
+
+## Another Success
+
+Aliquam sit amet lectus ut libero congue viverra. Morbi quis diam ullamcorper, iaculis ex non, fermentum mauris. Aliquam consectetur vitae purus vitae laoreet. Sed elementum ligula et mauris eleifend dignissim. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, dolor molestie viverra interdum, nibh urna dignissim nisi, et rhoncus libero nibh a nulla. Etiam ac augue vel leo vehicula finibus at non tortor. 
