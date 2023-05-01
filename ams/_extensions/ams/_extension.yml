@@ -9,4 +9,8 @@ contributes:
       template-partials: 
         - typst-template.typ
         - typst-show.typ
+      filters:
+        - ams.lua
+      # disable quarto refs div injection
+      cite-method: natbib
 

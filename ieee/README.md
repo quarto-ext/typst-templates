@@ -14,7 +14,7 @@ This will install the extension and create an example qmd file that you can use 
 
 ## Using
 
-The example qmd demonstrates the document options supported by the IEE format (`title`, `author`, `abstract`, `index-terms`, etc.). For example, your document options might look something like this:
+The example qmd demonstrates the document options supported by the IEE format (`title`, `authors`, `abstract`, `index-terms`, etc.). For example, your document options might look something like this:
 
 ```yaml
 ---
