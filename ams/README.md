@@ -41,6 +41,6 @@ bibliography: refs.bib
 ---
 ```
 
-This document Would be rendered as:
+This document would be rendered as:
 
 ![](ams.png)

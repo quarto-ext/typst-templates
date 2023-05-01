@@ -14,7 +14,7 @@ This will install the extension and create an example qmd file that you can use 
 
 ## Using
 
-The example qmd demonstrates the document options supported by the IEE format (`title`, `authors`, `abstract`, `index-terms`, etc.). For example, your document options might look something like this:
+The example qmd demonstrates the document options supported by the IEE format (`title`, `authorsgit p`, `abstract`, `index-terms`, etc.). For example, your document options might look something like this:
 
 ```yaml
 ---
@@ -42,6 +42,6 @@ bibliography: refs.bib
 ---
 ```
 
-This document Would be rendered as:
+This document would be rendered as:
 
 ![](ieee.png)
