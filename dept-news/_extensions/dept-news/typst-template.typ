@@ -65,12 +65,10 @@
       set align(center)
       set text(font: "Syne")
       v(if it.has("gap") { it.gap } else { 24pt }, weak: true)
-      [-- ]
-      it.caption
-      if it.numbering != none {
-        [ (] + counter(figure).display(it.numbering) + [)]
+      if it.supplement != none and it.numbering != none {
+        [#it.supplement #counter(figure).display(it.numbering): ]
       }
-      [ --]
+      it.caption
     }
 
     v(48pt, weak: true)
