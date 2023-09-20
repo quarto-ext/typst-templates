@@ -1,0 +1,11 @@
+title: Poster
+author: Carlos Scheidegger
+version: 1.0.0
+quarto-required: ">=99.9.0"
+contributes:
+  formats:
+    typst:
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ
+
