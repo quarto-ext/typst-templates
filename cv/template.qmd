@@ -1,0 +1,40 @@
+---
+author:
+    firstname: Aaaaaaa
+    lastname: Aaa
+    email: aaaaaaaaaa@aaaaa.aaa
+    phone: (+1) 0000000000
+    github: aaaaaaaaa
+    linkedin: aaaaaaaa
+    positions: 
+        - Aaaaaaaa Aaaaaaaa 
+        - Aaaa Aaaaa Aaaaaaaaa
+date : Aaaaa 00, 0000
+format:
+    cv-typst: default
+keep-typ: true
+---
+
+# Education
+
+## University of Aaaaaaaa Aaaaaaa-Aaaaaaaaa
+- Master of Computer Science
+- "4.00", "4.00"
+- Aug. 0000 - Aug. 0000
+
+
+## University of Aaaaaaaa-Aaaaaaa
+- B.S. in Computer Science
+- "4.00", "4.00"
+- Aug. 0000 - Aug. 0000
+
+
+# Experience
+
+
+
+# Personal Project
+
+
+
+# Skills
