@@ -1,6 +1,6 @@
 # Typst Letter Format
 
-Based on tbe letter template published by the Typst team at <https://typst/typst-templates/letter>.
+Based on tbe letter template published by the Typst team at <https://github.com/typst/templates/tree/main/letter>.
 
 **NOTE**: This format requires the pre-release version of Quarto v1.4, which you can download here: <https://quarto.org/docs/download/prerelease>.
 
