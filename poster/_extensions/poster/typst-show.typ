@@ -50,25 +50,25 @@
   $if(num-columns)$ num_columns: $num-columns$, $endif$
 
   // University logo's scale (in %).
-  $if(univ-logo-scale)$ univ_logo_scale: $univ_logo_scale$, $endif$
+  $if(univ-logo-scale)$ univ_logo_scale: $univ-logo-scale$, $endif$
 
   // University logo's column size (in in).
-  $if(univ-logo-column-size)$ univ_logo_column_size: $univ_logo_column_size$, $endif$
+  $if(univ-logo-column-size)$ univ_logo_column_size: $univ-logo-column-size$, $endif$
 
   // Title and authors' column size (in in).
-  $if(title-column-size)$ title_column_size: $title_column_size$, $endif$
+  $if(title-column-size)$ title_column_size: $title-column-size$, $endif$
 
   // Poster title's font size (in pt).
-  $if(title-font-size)$ title_font_size: $title_font_size$, $endif$
+  $if(title-font-size)$ title_font_size: $title-font-size$, $endif$
 
   // Authors' font size (in pt).
-  $if(authors-font-size)$ authors_font_size: $authors_font_size$, $endif$
+  $if(authors-font-size)$ authors_font_size: $authors-font-size$, $endif$
 
   // Footer's URL and email font size (in pt).
-  $if(footer-url-font-size)$ footer_url_font_size: $footer_url_font_size$, $endif$
+  $if(footer-url-font-size)$ footer_url_font_size: $footer-url-font-size$, $endif$
 
   // Footer's text font size (in pt).
-  $if(footer-text-font-size)$ footer_text_font_size: [$footer_text_font_size$], $endif$
+  $if(footer-text-font-size)$ footer_text_font_size: [$footer-text-font-size$], $endif$
 
   doc,
 )
