@@ -68,7 +68,7 @@
   $if(footer-url-font-size)$ footer_url_font_size: $footer-url-font-size$, $endif$
 
   // Footer's text font size (in pt).
-  $if(footer-text-font-size)$ footer_text_font_size: [$footer-text-font-size$], $endif$
+  $if(footer-text-font-size)$ footer_text_font_size: $footer-text-font-size$, $endif$
 
   doc,
 )
